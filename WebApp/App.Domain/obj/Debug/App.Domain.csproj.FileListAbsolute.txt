@@ -1,0 +1,6 @@
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Domain\obj\Debug\App.Domain.pdb

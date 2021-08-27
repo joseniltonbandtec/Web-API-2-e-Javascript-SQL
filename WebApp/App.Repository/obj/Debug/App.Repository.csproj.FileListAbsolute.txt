@@ -1,0 +1,9 @@
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\obj\Debug\App.Repository.csprojAssemblyReference.cache
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\jose.teixeirajr\source\repos\Seja Full-Stack com Asp.NET Web API 2 e Javascript + SQL\WebApp\App.Repository\obj\Debug\App.Repository.pdb
